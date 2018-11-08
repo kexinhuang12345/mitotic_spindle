@@ -2,6 +2,8 @@
 Modelling mitotic spindle assembly, how Microtubles (MT) capture the KT on chromosomes, integrating physical force from dynein and Eg5.
 
 ![1](img/1.png)
+![2](img/2.png)
+![3](img/3.png)
 
 
 Reference:
