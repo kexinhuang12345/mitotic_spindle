@@ -1,5 +1,5 @@
 # mitotic_spindle
-Modelling mitotic spindle assembly, how Microtubles (MT) capture the KT on chromosomes, integrating physical force from dynein and Eg5.
+The previous model mimicking the dynein-Eg5 motor proteins effect on spindles considers a static kinetochore force. In reality, the net kinetochore force dynamically changes over time because an error-correction mechanism changes the number of Amphitelic and Merotelic chromosomes that collectively generate the net force. We modeled this dynamic change of forces using a system of Ordinary Differential Equations that characterize kinetic error corrections and integrate it into the dynein-Eg5 model.
 
 ![1](img/1.png)
 ![2](img/2.png)
